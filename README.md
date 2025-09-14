@@ -1,5 +1,6 @@
 # Danawa Scraper Project (Structured from your Colab snippets)
 • 목표1: 다나와에서 ‘후드티’ 검색 결과  스크래핑
+
 • 목표2: 스크래핑한 정보를 엑셀 파일에 저장
 
 
